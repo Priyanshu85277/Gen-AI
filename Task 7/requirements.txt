@@ -1,0 +1,7 @@
+streamlit
+requests
+Pillow
+textblob
+python-dotenv
+langdetect
+deep-translator
